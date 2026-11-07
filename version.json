@@ -1,0 +1,7 @@
+{
+  "version": "1.0.4",
+  "firmware": "https://alirezaborji.github.io/Solar-Gateway-Firmware/firmware-1.0.4.bin",
+  "size": 1326144,
+  "sha256": "b7d26ae1a24314b9f19a5564dbb318aa572bff0453399ce2899c0fedb9b85fd9",
+  "signature": "MEQCIGgWL9YsDIfBt8HVtKpb2NJepyUbxVJG9U2usgbwLehXAiBQeVlq5JwBLGodA/+hOFiC7OEc3eCsfpQ2VvZNbH2EVg=="
+}
